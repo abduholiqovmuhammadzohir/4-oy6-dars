@@ -143,16 +143,16 @@
 
 // 5 - misol
 
-let i = 1;
-let n = 22;
+// let i = 1;
+// let n = 22;
 
-let sum = 0;
+// let sum = 0;
 
-while (i <= n) {
-    sum += 1;
-    i++ ;
-}
-console.log(sum);
+// while (i <= n) {
+//     sum = sum + (n % 10)
+//     n = Math.trunc(n / 10)
+// }
+// console.log(sum); 
 
 // 6 - misol
 
@@ -272,3 +272,4 @@ console.log(sum);
 // 7 - misol
 
 
+ 
